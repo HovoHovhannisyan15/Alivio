@@ -1,0 +1,3 @@
+echo "# Alivio" > README.md
+echo "" >> README.md
+echo "Ссылка на проект: [https://hovohovhannisyan15.github.io/Alivio/](https://hovohovhannisyan15.github.io/Alivio/)" >> README.md
